@@ -38,6 +38,10 @@ probably the most common.
 
 - Add / Create buttons: btn btn-success
 
+### Forms
+
+When a field's value is optional, append (optional) to its title.  Example "sysName (optional)"
+
 ### Tables
 
 Unless the table being used will only ever display a handful of
